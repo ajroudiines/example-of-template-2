@@ -1,0 +1,132 @@
+body{
+    
+    width: 100%;
+    height:150%;
+    background-image: url("./../img/clouds-cold-dark-540518.jpg");
+    background-size: 100% 150%;
+   background-repeat: no-repeat;
+   
+}
+/*partie1*/
+
+.topnav {
+    
+    overflow: hidden;
+   
+  }
+  .topnav a {
+    float: right;;
+    display: block;
+   
+    text-align:center;
+    
+    text-decoration: none;
+    font-size: 18px;
+    margin-right:70px;
+    font-style: normal;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+   
+  }
+  
+  
+  .topnav .icon {
+    display: none;
+  }
+  .active2{
+      color:rgba(29, 24, 24, 0.795);
+  }
+  /*partie2*/
+.A{
+    margin-left: 40px;
+    margin-top: 100px;
+ 
+    line-height:20px;
+    background-color: #5f5f5f9c;
+    
+}
+
+.S{
+    color:white;
+   
+    font-family: Andale Mono, monospace;
+    font-size: 20px;
+}
+.SS{
+    color:white;
+    
+    font-family: Andale Mono, monospace;
+    font-size: 15px;
+   margin-top: 20px;
+}
+.B{
+    margin-left: 40px;
+    color :white;
+    margin-top: 10px;
+}
+
+.M{
+
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer; 
+    background-color: #CD5C5C;
+    color: white;
+    font-family:"Courier New", Courier, monospace;
+    font-style: italic;
+    margin-top: 20px;
+    margin-left: 40px;
+    
+    
+  }
+  button :hover{
+     
+      background-color:#CD5C5C;
+  }
+  .RA{
+    color:#CD5C5C;
+  }
+   /*partie2*/
+   .Y{font-size: 15px;
+       margin-left: 160px;
+color:white;
+font-family:URW Chancery L;
+   }
+   
+   .Z{
+    margin-left: 110px;
+   
+   }
+   .ZZ{
+    margin-left: 110px;
+    margin-top: 20px;
+   }
+   .N{
+       margin-left:100px;
+       padding: 14px 28px;
+       font-size: 16px;
+       cursor: pointer; 
+       background:none;
+       color: white;
+       font-family:"Courier New", Courier, monospace;
+       font-style: italic;
+       margin-top: 20px;
+       background-color: #CD5C5C;
+   }
+   .F{
+    margin-left:100px;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer; 
+    background:none;
+    color: white;
+    font-family:"Courier New", Courier, monospace;
+    font-style: italic;
+    margin-top: 20px;
+   }
+   .O{
+    margin-left: 40px;
+    color :white;
+    margin-top: 10px;
+    font-family: Andale Mono, monospace;
+    font-size: 15px;
+   }
